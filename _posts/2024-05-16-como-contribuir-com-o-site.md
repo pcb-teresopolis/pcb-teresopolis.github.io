@@ -7,6 +7,7 @@ thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
 tags: [guia, documentação, codigo-aberto]
 author: Jorge Amado romancista popular, especialista frontend, pseudonimo e proletario
+date_format: "%-d de %B de %Y"
 ---
 
 Nós trabalhadores desempenhamos um papel fundamental na estrutura social, sendo a espinha a espinha dorsal da economia e da produção da vida como é hoje.
