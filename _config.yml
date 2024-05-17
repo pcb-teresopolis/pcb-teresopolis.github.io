@@ -20,11 +20,11 @@ author: Sebastião Salgado
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
+  Sobre nós: "sobrenos"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+    - Tema Beautiful Jekyll: "https://beautifuljekyll.com"
+    - Aprenda markdown: "https://www.markdowntutorial.com/"
+  Partidão: "https://pcb.org.br/portal2/"
 
 ################
 # --- Logo --- #
