@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Sample blog post to learn markdown tips
-subtitle: There's lots to learn!
+title: Blog post de exemplo com dicas de markdown
+subtitle: Tem muito o que aprender!
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
-tags: [test]
+tags: [linguagem, programação, markdown]
 comments: true
 mathjax: true
-author: Bill Smith
+author: Jorge Amado romancista popular, especialista frontend, pseudonimo e proletario
 ---
 
 {: .box-success}
