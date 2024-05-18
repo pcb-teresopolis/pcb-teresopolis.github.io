@@ -37,6 +37,6 @@ Esse código usa uma ferramenta chamada Jekyll para ser traduzido nessa pagina d
 
 Esse código então pode ser visto e editado pois fica armazenado nessa pagina onde está todo o codigo desse site aqui: https://github.com/pcb-teresopolis/pcb-teresopolis.github.io 
 
-![Screenshot](https://beautifuljekyll.com/assets/img/github-porject-folder.png){: .mx-auto.d-block :}
+![Screenshot](https://pcb-teresopolis.github.io/assets/img/github-porject-folder.png){: .mx-auto.d-block :}
 
 Dentro da pasta "_posts" temos todos os posts do site, por exemplo o post sobre markdown tem o caminho do arquivo "_posts/2024-05-17-exemplos-markdown.md". Vou gravar um video traduzindo o arquivo do ingles pra portugues como exemplo de como contribuir ... continua...

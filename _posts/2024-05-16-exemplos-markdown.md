@@ -8,6 +8,8 @@ tags: [linguagem, programação, markdown]
 comments: true
 mathjax: true
 author: Jorge Amado romancista popular, especialista frontend, pseudonimo e proletario
+date_format: "%-d de %B de %Y"
+language: pt-BR
 ---
 
 {: .box-success}
@@ -33,11 +35,11 @@ When \\(a \ne 0\\), there are two solutions to \\(ax^2 + bx + c = 0\\) and they 
 
 How about a yummy crepe?
 
-![Crepe](https://beautifuljekyll.com/assets/img/crepe.jpg)
+![Crepe](https://pcb-teresopolis.github.io/assets/img/crepe.jpg)
 
 It can also be centered!
 
-![Crepe](https://beautifuljekyll.com/assets/img/crepe.jpg){: .mx-auto.d-block :}
+![Crepe](https://pcb-teresopolis.github.io/assets/img/crepe.jpg){: .mx-auto.d-block :}
 
 Here's a code chunk:
 
