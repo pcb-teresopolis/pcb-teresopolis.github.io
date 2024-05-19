@@ -3,7 +3,7 @@ layout: post
 title: Como contribuir com o site
 subtitle: Um manifesto ao código livre
 cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/thumb.png
+thumbnail-img: /assets/img/thumb-contrib.webp
 share-img: /assets/img/path.jpg
 tags: [guia, documentação, codigo-aberto]
 author: Jorge Amado romancista popular, especialista frontend, pseudonimo e proletario
@@ -11,7 +11,7 @@ date_format: "%-d de %B de %Y"
 language: pt-BR
 ---
 
-Nós trabalhadores desempenhamos um papel fundamental na estrutura social, sendo a espinha a espinha dorsal da economia e da produção da vida como é hoje.
+Nós trabalhadores desempenhamos um papel fundamental na estrutura social, sendo a espinha dorsal da economia e da produção da vida como é hoje.
 
 A fim de partilhar socialmente a estrutura de manutenção e contribuição desse site, escrevi esse documento explicando alguns dos processos.
 
@@ -39,4 +39,4 @@ Esse código então pode ser visto e editado pois fica armazenado nessa pagina o
 
 ![Screenshot](https://pcb-teresopolis.github.io/assets/img/github-porject-folder.png){: .mx-auto.d-block :}
 
-Dentro da pasta "_posts" temos todos os posts do site, por exemplo o post sobre markdown tem o caminho do arquivo "_posts/2024-05-17-exemplos-markdown.md". Vou gravar um video traduzindo o arquivo do ingles pra portugues como exemplo de como contribuir ... continua...
+Dentro da pasta "_posts" temos todos os posts do site, por exemplo o post sobre markdown tem o caminho do arquivo "_posts/2024-05-17-exemplos-markdown.md". 
